@@ -1,0 +1,105 @@
+# Object files (생성된 바이너리 파일)
+*.o
+*.obj
+
+# Linker output (링커가 생성한 실행 파일 및 라이브러리)
+*.out
+*.exe
+*.app
+*.so
+*.a
+*.dll
+*.lib
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compilation databases (일부 빌드 시스템에서 사용)
+compile_commands.json
+
+# Dependency files (컴파일러가 생성한 종속성 정보)
+*.d
+*.dep
+*.mkd
+
+# Debug files (디버그 정보)
+*.debug*
+
+# Temp files
+*~
+*.tmp
+
+# IDE generated (통합 개발 환경에서 생성된 설정 및 프로젝트 파일)
+*.user
+*.suo
+*.sdf
+*.db
+*.opendb
+.vscode/
+.vs/
+
+
+# Created by https://www.toptal.com/developers/gitignore/api/c
+# Edit at https://www.toptal.com/developers/gitignore?templates=c
+
+### C ###
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# End of https://www.toptal.com/developers/gitignore/api/c
+
+
+# 빌드 결과물
+x64/Debug/*
+
