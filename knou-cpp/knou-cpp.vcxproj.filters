@@ -15,10 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cpp-language.cpp">
+    <ClCompile Include="knou-cpp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="01FirstStep.cpp">
+    <ClCompile Include="..\01cout-cin.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="02namespace.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="03using.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

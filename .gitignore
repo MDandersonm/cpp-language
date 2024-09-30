@@ -100,6 +100,11 @@ dkms.conf
 # End of https://www.toptal.com/developers/gitignore/api/c
 
 
+
+# 빌드 로그 파일 무시
+*.tlog
+*.log
+*.recipe
 # 빌드 결과물
 x64/Debug/*
 

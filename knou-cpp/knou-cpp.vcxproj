@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{47094de6-046b-439f-9b0b-982f7a8c1857}</ProjectGuid>
-    <RootNamespace>cpplanguage</RootNamespace>
+    <ProjectGuid>{2f64d9f3-6470-4751-890f-80abec9929f3}</ProjectGuid>
+    <RootNamespace>knoucpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,8 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01FirstStep.cpp" />
-    <ClCompile Include="cpp-language.cpp" />
+    <ClCompile Include="..\01cout-cin.cpp" />
+    <ClCompile Include="02namespace.cpp" />
+    <ClCompile Include="03using.cpp" />
+    <ClCompile Include="knou-cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
