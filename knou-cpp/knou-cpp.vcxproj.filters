@@ -24,7 +24,7 @@
     <ClCompile Include="02namespace.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="03using.cpp">
+    <ClCompile Include="test-for.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
