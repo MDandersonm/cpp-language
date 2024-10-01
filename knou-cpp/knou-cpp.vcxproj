@@ -129,7 +129,15 @@
   <ItemGroup>
     <ClCompile Include="..\01cout-cin.cpp" />
     <ClCompile Include="02namespace.cpp" />
+    <ClCompile Include="CallByRef.cpp" />
+    <ClCompile Include="DAlloc.cpp" />
+    <ClCompile Include="FindMaxInArr.cpp" />
+    <ClCompile Include="FirstStep.cpp" />
+    <ClCompile Include="GetMax.cpp" />
+    <ClCompile Include="IntPtr.cpp" />
     <ClCompile Include="knou-cpp.cpp" />
+    <ClCompile Include="Rectangle.cpp" />
+    <ClCompile Include="RecTest.cpp" />
     <ClCompile Include="test-for.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
