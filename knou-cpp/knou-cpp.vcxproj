@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="..\01cout-cin.cpp" />
     <ClCompile Include="02namespace.cpp" />
+    <ClCompile Include="03l-value.cpp" />
     <ClCompile Include="CallByRef.cpp" />
     <ClCompile Include="DAlloc.cpp" />
     <ClCompile Include="FindMaxInArr.cpp" />

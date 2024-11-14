@@ -2,7 +2,7 @@
 #include  <iostream>
 using  namespace  std;
 
-int main005()
+int main05()
 {
     int  a = 10, b = 20;
     int& aRef = a; // a를 참조하는 참조 변수 aRef를 선언 - aRef 값을 변경하면 a의 값이 변경됨
